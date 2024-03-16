@@ -44,7 +44,7 @@ These are some of the technologies and tools that I work with:
 
 ## 📫 Get in Touch!
 
-- LinkedIn: [Liliana Ribeiro](https://www.linkedin.com/in/liliana-ribeiro-82469825a/))
+- LinkedIn: [Liliana Ribeiro](https://www.linkedin.com/in/liliana-ribeiro-82469825a/)
 - Email: [Liliana Ribeiro](mailto:lilianapcribeiro@ua.pt)
 
 Thank you for visiting my profile! If you liked what you saw and want to talk about technology, projects, or anything else, feel free to reach out!
