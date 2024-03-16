@@ -34,6 +34,9 @@ These are some of the technologies and tools that I work with:
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=redis)
 ![Neo4j](https://img.shields.io/badge/-Neo4j-black?style=flat-square&logo=neo4j)
 ![Shell](https://img.shields.io/badge/-Shell_Script-black?style=flat-square&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&logoColor=white)
+
 
 
 ## 📊 My GitHub Stats
