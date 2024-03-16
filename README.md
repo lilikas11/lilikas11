@@ -8,6 +8,7 @@ Welcome to my GitHub profile! My name is Liliana Ribeiro and I am a Software Dev
 - 😄 I'm doing my final degree project which you can see at [TimeWise](https://timewise-pi.github.io/docs/)
 - 👯 I am currently president of AETTUA, an association that represents all DETI students and teachers
 - 📫 How to reach me: lilianapcribeiro@ua.pt
+- 🎓 My LinkedIn: [Liliana Ribeiro](https://www.linkedin.com/in/liliana-ribeiro-82469825a/)
 - ⚡ Fun fact: I love cats too much
 
 ## ⚡ Technologies
@@ -42,9 +43,5 @@ These are some of the technologies and tools that I work with:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lilikas11&layout=compact&show_icons=true&bg_color=0D1117&icon_color=DDA0DD&title_color=DDA0DD&text_color=C9D1D9&border_color=DDA0DD)
 
-## 📫 Get in Touch!
-
-- LinkedIn: [Liliana Ribeiro](https://www.linkedin.com/in/liliana-ribeiro-82469825a/)
-- Email: [Liliana Ribeiro](mailto:lilianapcribeiro@ua.pt)
 
 Thank you for visiting my profile! If you liked what you saw and want to talk about technology, projects, or anything else, feel free to reach out!
