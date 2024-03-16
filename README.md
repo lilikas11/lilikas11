@@ -33,6 +33,8 @@ These are some of the technologies and tools that I work with:
 ![Cassandra](https://img.shields.io/badge/-Cassandra-black?style=flat-square&logo=apache-cassandra)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=redis)
 ![Neo4j](https://img.shields.io/badge/-Neo4j-black?style=flat-square&logo=neo4j)
+![Shell](https://img.shields.io/badge/-Shell_Script-black?style=flat-square&logo=gnu-bash&logoColor=white)
+
 
 ## 📊 My GitHub Stats
 
