@@ -47,6 +47,3 @@ These are some of the technologies and tools that I work with:
 ## 🚀 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lilikas11&layout=compact&show_icons=true&bg_color=0D1117&icon_color=DDA0DD&title_color=DDA0DD&text_color=C9D1D9&border_color=DDA0DD)
-
-
-Thank you for visiting my profile! If you liked what you saw and want to talk about technology, projects, or anything else, feel free to reach out!
