@@ -5,11 +5,9 @@ Welcome to my GitHub profile! My name is Liliana Ribeiro and I am a Software Dev
 ## 🌱 About Me
 
 - 🔭 I’m currently studying Informatics Engineering at DETI, University of Aveiro
-- 😄 I'm doing my final degree project which you can see at [TimeWise](https://timewise-pi.github.io/docs/)
-- 👯 I am currently president of AETTUA, an association that represents all DETI students and teachers
+- 😄 My final degree project which you can see at [TimeWise](https://timewise-pi.github.io/docs/)
 - 📫 How to reach me: lilianapcribeiro@ua.pt
 - 🎓 My LinkedIn: [Liliana Ribeiro](https://www.linkedin.com/in/liliana-ribeiro-82469825a/)
-- ⚡ Fun fact: I love cats too much
 
 ## ⚡ Technologies
 
@@ -36,12 +34,6 @@ These are some of the technologies and tools that I work with:
 ![Shell](https://img.shields.io/badge/-Shell_Script-black?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&logoColor=white)
-
-
-
-## 📊 My GitHub Stats
-
-![Your Name](https://github-readme-stats.vercel.app/api?username=lilikas11&show_icons=true&bg_color=0D1117&icon_color=DDA0DD&title_color=DDA0DD&text_color=C9D1D9&border_color=DDA0DD)
 
 
 ## 🚀 Most Used Languages
