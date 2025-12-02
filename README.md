@@ -5,7 +5,7 @@ Welcome to my GitHub profile! My name is Liliana Ribeiro and I am a Software Dev
 ## 🌱 About Me
 
 - 🔭 I’m currently studying Informatics Engineering at DETI, University of Aveiro
-- 😄 My final degree project which you can see at [TimeWise](https://timewise-pi.github.io/docs/)
+- 😄 You can see my final degree project at [TimeWise](https://timewise-pi.github.io/docs/)
 - 📫 How to reach me: lilianapcribeiro@ua.pt
 - 🎓 My LinkedIn: [Liliana Ribeiro](https://www.linkedin.com/in/liliana-ribeiro-82469825a/)
 
